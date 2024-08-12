@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Waves of War!!!!!!!
+draft: false
+tags: 
+description: 
+aliases:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Omg  plz tell me this works!!
