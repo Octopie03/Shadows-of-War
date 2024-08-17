@@ -1,5 +1,5 @@
 ---
-title: The Path of Connection
+title: The path of Connection
 draft: false
 tags:
   - Character
